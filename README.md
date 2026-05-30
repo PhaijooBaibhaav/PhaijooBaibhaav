@@ -1,4 +1,5 @@
-# Hi! I'm Baibhav
+
+# ![terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=00FF00&background=000000&lines=Hi!;I'm+Baibhav.;)
 
 ## About Me
 
@@ -14,5 +15,6 @@ So far, I've created basic projects using:
 
 I'm always exploring new tools, programming languages, and ideas. My goal is to keep learning, improve my skills, and build more interesting projects over time.
 
-Thanks for visiting my profile!
+Thanks+for+visiting+my+profile!
 
+![terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=00FF00&background=000000&lines=Thanks+for+visiting+my+profile!;)
