@@ -15,5 +15,9 @@ So far, I've created basic projects using:
 
 I'm always exploring new tools, programming languages, and ideas. My goal is to keep learning, improve my skills, and build more interesting projects over time.
 #
+Extra info:
+- Try my ![NeoVim configuration](https://github.com/PhaijooBaibhaav/nvim_config-Baibhav)
+- My ![monkeytype profile](https://monkeytype.com/profile/B41BH4V) 
+#
 ![terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=00FF00&background=000000&lines=Thanks+for+visiting+my+profile!;)
 #
